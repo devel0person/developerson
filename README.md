@@ -15,12 +15,11 @@ Welcome to my GitHub corner! I'm a versatile programmer with a deep love for cle
 
 ---
 
-## 📈 GitHub Stats
-![Cara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=caracurse&show_icons=true&theme=radical&hide=issues,prs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caracurse&custom_title=Stats:&show_icons=true&theme=radical)
 ---
 
 ## 🛠️ Tech Stack
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caracurse&layout=compact&theme=radical)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caracurse&custom_title=Languages&disable_animation=false&layout=compact&theme=radical)
 
 ---
 
@@ -28,3 +27,11 @@ Welcome to my GitHub corner! I'm a versatile programmer with a deep love for cle
 - 🎨 I enjoy designing UIs that merge creativity and usability.
 - 💡 Always curious about emerging tech and learning new tools.
 - 🎶 Coding is better with a good playlist — feel free to share yours!
+<br />
+<p align='center'> 
+    <a href="https://t.me/caracurse">
+        <img src="https://img.shields.io/badge/TELEGRAM-DAC6C2?style=for-the-badge"/>
+    </a>   
+    <a href="https://youtube.com/@caracurse"><img src="https://img.shields.io/badge/YouTube-DAC6C2?style=for-the-badge"/>
+    </a>
+</p>
