@@ -15,7 +15,7 @@ Welcome to my GitHub corner! I'm a versatile programmer with a deep love for cle
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caracurse&custom_title=Stats:&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caracurse&custom_title=Statistics:&show_icons=true&theme=radical)
 ---
 
 ## 🛠️ Tech Stack
