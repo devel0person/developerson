@@ -1,3 +1,8 @@
+<!--[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url] -->
+
 # 👋 Hello, I'm Cara!
 
 ✨ **A passionate developer crafting solutions and writing elegant code.**
@@ -35,3 +40,15 @@ Welcome to my GitHub corner! I'm a versatile programmer with a deep love for cle
     <a href="https://youtube.com/@caracurse"><img src="https://img.shields.io/badge/YouTube-DAC6C2?style=for-the-badge"/>
     </a>
 </p>
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+<!-- 
+[contributors-shield]: https://img.shields.io/github/contributors/caracurse/caracurse.svg?style=for-the-badge
+[contributors-url]: https://github.com/caracurse/caracurse/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/caracurse/caracurse.svg?style=for-the-badge
+[forks-url]: https://github.com/caracurse/caracurse/network/members
+[stars-shield]: https://img.shields.io/github/stars/caracurse/caracurse.svg?style=for-the-badge
+[stars-url]: https://github.com/caracurse/repo_name/stargazers
+[issues-shield]: https://img.shields.io/github/issues/caracurse/caracurse.svg?style=for-the-badge
+[issues-url]: https://github.com/caracurse/caracurse/issues -->
