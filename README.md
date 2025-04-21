@@ -16,15 +16,15 @@ Welcome to my GitHub corner! I'm a versatile programmer with a deep love for cle
 - 🔭 Currently working on **automation tools, web applications, and backend systems**.
 - 🌱 Constantly learning and improving skills in **Python**, **Java**, **Kotlin**, **Bash**, and **Web Development**.
 - 💬 Open to collaboration on exciting projects.
-- 📫 Reach me at [GitHub](https://github.com/caracurse).
+- 📫 Reach me at [GitHub](https://github.com/devel0person).
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caracurse&custom_title=Statistics:&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devel0person&custom_title=Statistics:&show_icons=true&theme=radical)
 ---
 
 ## 🛠️ Tech Stack
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caracurse&custom_title=Languages&disable_animation=false&layout=compact&theme=radical)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devel0person&custom_title=Languages&disable_animation=false&layout=compact&theme=radical)
 
 ---
 
